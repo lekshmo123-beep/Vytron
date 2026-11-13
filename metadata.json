@@ -1,0 +1,6 @@
+{
+  "name": "VYTRON",
+  "description": "Enterprise software supply-chain intelligence and security coordination platform for SBOM ingestion, deterministic OSV/NVD vulnerability matching, exposure analysis, incident management, and remediation tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
